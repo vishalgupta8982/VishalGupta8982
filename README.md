@@ -13,7 +13,7 @@
 ----
 <br>
 
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning React Native.
 - 👯 I’m looking for internship as a Web Developer.
 - 💬 Ask me about HTML, CSS, C, Java, Javascript, Node.JS, React.JS, React Native.
 
@@ -33,7 +33,7 @@
 
   
  <img height=23 src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;<img height=23 width=80 src="https://repository-images.githubusercontent.com/161459736/524e6f00-8313-11e9-9c74-51546bca55a3">&nbsp;&nbsp;<img height=23 width=75 src="https://www.vectorlogo.zone/logos/java/java-ar21.png">&nbsp;&nbsp;<img height=23 width=75 src="https://res.cloudinary.com/practicaldev/image/fetch/s--iGOEVbEh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/hjvfqo21fc6u4zqo5ph0.jpg">&nbsp;&nbsp;<img height=23 width=75 src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.png">
- &nbsp;&nbsp;<img height=23 width=75 src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-128.png">
+ &nbsp;&nbsp;<img height=23 width=75 src="https://www.pngitem.com/pimgs/m/514-5142665_react-native-transparent-react-native-logo-png-png.png">
 
  
  
