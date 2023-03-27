@@ -32,8 +32,8 @@
 #### **Programming Languages**:
 
   
- <img height=40 src="https://cdn-icons-png.flaticon.com/512/226/226777.png">&nbsp;&nbsp;<img height=45 src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png">&nbsp;&nbsp;<img height=40 src="https://cdn-icons-png.flaticon.com/512/919/919828.png">&nbsp;&nbsp;<img height=40 src="https://cdn-icons-png.flaticon.com/512/919/919851.png">&nbsp;&nbsp;<img height=45 src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">&nbsp;&nbsp;<img height=40 src=" https://cdn-icons-png.flaticon.com/512/919/919825.png">
- &nbsp;&nbsp;<img height=23 width=100 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGD51uMb-_QC1AUdCg0R85xMB9XP-5VhWRRQ&usqp=CAU">
+ <img height=40 src="https://cdn-icons-png.flaticon.com/512/226/226777.png">&nbsp;&nbsp;<img height=45 src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png">&nbsp;&nbsp;<img height=40 src="https://cdn-icons-png.flaticon.com/512/919/919828.png">&nbsp;&nbsp;<img height=40 src="https://cdn-icons-png.flaticon.com/512/919/919851.png">&nbsp;&nbsp;<img height=45 src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">&nbsp;&nbsp;<img height=40 src="https://cdn-icons-png.flaticon.com/512/919/919825.png">
+ &nbsp;&nbsp;<img height=23 width=100 src="https://image.pngaaa.com/76/6471076-middle.png">
 
  
  
