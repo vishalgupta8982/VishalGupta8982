@@ -33,7 +33,7 @@
 
   
  <img height=70 src="https://cdn-icons-png.flaticon.com/512/226/226777.png">&nbsp;&nbsp;&nbsp;&nbsp;<img height=75  src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png">&nbsp;&nbsp;&nbsp;&nbsp;<img height=70 src="https://cdn-icons-png.flaticon.com/512/919/919828.png">&nbsp;&nbsp;&nbsp;&nbsp;<img height=70 src="https://cdn-icons-png.flaticon.com/512/919/919851.png">&nbsp;&nbsp;&nbsp;&nbsp;<img height=75 src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">&nbsp;&nbsp;&nbsp;&nbsp;<img height=75 src="https://cdn-icons-png.flaticon.com/512/919/919825.png">
- &nbsp;&nbsp;&nbsp;&nbsp;<img height=70 style="border-radius: 25px;" src="https://image.pngaaa.com/76/6471076-middle.png">
+ &nbsp;&nbsp;&nbsp;&nbsp;<img height=70  src="https://image.pngaaa.com/76/6471076-middle.png">
 
  
  
