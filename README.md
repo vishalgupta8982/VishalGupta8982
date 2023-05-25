@@ -14,7 +14,7 @@
 <br>
 
 - 🌱 I’m currently learning React Native.
-- 👯 I’m looking for internship as a Web Developer.
+- 👯 I’m looking for internship as a React Native Developer.
 - 💬 Ask me about HTML, CSS, C, Java, Javascript, Node.JS, React.JS, React Native.
 
     My Portfolio:
