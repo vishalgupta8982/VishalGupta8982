@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning React Native.
 - 👯 I’m looking for internship as a React Native Developer.
-- 💬 Ask me about HTML, CSS, C, Java, Javascript, Node.JS, React.JS, React Native.
+- 💬 Ask me about Javascript, Node.JS, React.JS, React Native,HTML, CSS, C, Java.
 
     My Portfolio:
 - <a href="https://vishalgupta8982.github.io/portfolio/"><img src="https://logos-download.com/wp-content/uploads/2021/01/Portfolio_Plus_Banking_Software_Logo-700x156.png" height="20px"></a>
