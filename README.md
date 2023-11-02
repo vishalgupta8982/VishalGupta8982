@@ -28,9 +28,7 @@
            </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
              <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"  />
-           </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer">  
-            <i class="devicon-express-original-wordmark"></i>
-           </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+           </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40" />
            </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">  
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40" />
