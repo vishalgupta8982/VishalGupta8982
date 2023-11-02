@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **vishalgupta0403@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16iRFUWeDDUMzZXBXmcHmZ-VkuM2i-s6M/view?usp=sharing](https://drive.google.com/file/d/16iRFUWeDDUMzZXBXmcHmZ-VkuM2i-s6M/view?usp=sharing)
-
 - ⚡ Fun fact **🎉 My birthday is on April 1st!**
 
 <h3 align="left">Connect with me:</h3>
