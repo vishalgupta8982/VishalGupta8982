@@ -23,7 +23,17 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+<p align="left">
+   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+          </a>
+   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" />
+           </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+           </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
            </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
              <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -38,13 +48,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
            </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">  
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40" />
-           </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-           </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" />
-           </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-          </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer">  
+           </a>   <a href="https://redux.js.org" target="_blank" rel="noreferrer">  
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" />
            </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">  
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  width="40" height="40"/>
