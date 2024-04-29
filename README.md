@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **🎉 My birthday is on April 1st!**
 
-- - ⚡ Portfolio **🎉 https://vishalgupta8982.github.io/portfolio/**
+- ❄️ Portfolio **🎯 https://vishalgupta8982.github.io/portfolio/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
