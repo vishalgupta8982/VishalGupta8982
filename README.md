@@ -45,7 +45,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" />
            </a>
    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  width="40" height="40"/>
+            <img src="www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"  width="40" height="40"/>
            </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">  
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40" />
