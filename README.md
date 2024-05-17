@@ -5,7 +5,7 @@
 </div>
 
 
-<h3 align="center">I'm Vishal Gupta, a 3rd year B.Tech student with a strong passion for Mobile Application Development.</h3>
+<h3 align="center">I'm Vishal Gupta, a 3rd year B.Tech student with a strong passion for Mobile Application Development and Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalgupta8982&label=Profile%20views&color=0e75b6&style=flat" alt="vishalgupta8982" /> </p>
 
@@ -26,7 +26,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div  align="left" >
-  <img src="https://skillicons.dev/icons?i=react,react,nodejs,express,firebase,mongodb,js,java,c,py,materialui,tailwind,git,github,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,react,nodejs,express,firebase,mongodb,js,java,c,py,materialui,tailwind,git,html,css" />
 </div>
  
  </br>
