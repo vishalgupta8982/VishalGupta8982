@@ -25,7 +25,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-  <div align="left">
+  <div marginBottom="20" align="left">
       <img src="https://skillicons.dev/icons?i=react,react,nodejs,express,firebase,mongodb,js,java,materialui,tailwind,git,github" />
 </div>     
 
