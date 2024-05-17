@@ -25,42 +25,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-          </a>
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" />
-           </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-           </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" />
-           </a>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdG9qnL6YBPohLsY-yowMoSV1HQsID8xHc1xqRBj8YUg&s" alt="express" width="40" height="40"/>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-           </a>  
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" />
-           </a>
-   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">  
-           <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-           </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40" />
-           </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
-           </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
-             <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"  />
-           </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40" />
-           </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40" />
-           </a>      </p>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=react,react,nodejs,express,firebase	,mongodb,js,java,materialui,tailwind,git,github" />
+</div>     
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalgupta8982&show_icons=true&locale=en&layout=compact" alt="vishalgupta8982" /></p>
 
