@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 💬 Ask me about **React Native, ReactJS, Nodejs, Tailwind, HTML, CSS, C, Java.**
-
 - 📫 How to reach me **vishalgupta0403@gmail.com**
 
 - ⚡ Fun fact **🎉 My birthday is on April 1st!**
@@ -26,7 +24,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div  align="left" >
-  <img src="https://skillicons.dev/icons?i=react,react,nodejs,express,firebase,mongodb,js,java,c,py,materialui,tailwind,git,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,firebase,mongodb,redux,js,java,c,py,materialui,tailwind,git,html,css,vscode,react"  />
+ 
 </div>
  
  </br>
