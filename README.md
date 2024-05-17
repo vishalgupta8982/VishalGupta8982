@@ -25,9 +25,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-  <div marginBottom="20" align="left">
-      <img src="https://skillicons.dev/icons?i=react,react,nodejs,express,firebase,mongodb,js,java,materialui,tailwind,git,github" />
-</div>     
+<div style={{ marginBottom: '20px', textAlign: 'left' }}>
+  <img src="https://skillicons.dev/icons?i=react,react,nodejs,express,firebase,mongodb,js,java,materialui,tailwind,git,github" />
+</div>
+ 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalgupta8982&show_icons=true&locale=en&layout=compact" alt="vishalgupta8982" /></p>
 
