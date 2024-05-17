@@ -25,11 +25,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-  <div align="center">
-<!--   <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,flutter,dart,git,c" />
-    <img src="https://skillicons.dev/icons?i=python,firebase,mongodb,java,mysql," /><br>
-</div> -->
+  <div align="left">
       <img src="https://skillicons.dev/icons?i=react,react,nodejs,express,firebase,mongodb,js,java,materialui,tailwind,git,github" />
 </div>     
 
