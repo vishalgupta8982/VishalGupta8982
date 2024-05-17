@@ -25,11 +25,13 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div style={{ marginBottom: '20px', textAlign: 'left' }}>
-  <img src="https://skillicons.dev/icons?i=react,react,nodejs,express,firebase,mongodb,js,java,materialui,tailwind,git,github" />
+<div  align="left" >
+  <img src="https://skillicons.dev/icons?i=react,react,nodejs,express,firebase,mongodb,js,java,c,py,materialui,tailwind,git,github,html,css" />
 </div>
  
+ </br>
+<p align="center"  style="margin-bottom: 20px;">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalgupta8982&show_icons=true&locale=en&layout=compact" alt="vishalgupta8982"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalgupta8982&show_icons=true&locale=en" alt="vishalgupta8982" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalgupta8982&show_icons=true&locale=en&layout=compact" alt="vishalgupta8982" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalgupta8982&show_icons=true&locale=en" alt="vishalgupta8982" /></p>
