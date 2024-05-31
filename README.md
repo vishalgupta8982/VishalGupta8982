@@ -24,7 +24,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div  align="left" >
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,firebase,mongodb,redux,js,java,c,py,materialui,tailwind,git,html,css,vscode,react,docker,github"  />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,express,firebase,mongodb,redux,js,java,c,py,materialui,tailwind,git,html,css,vscode,react,docker,github"  />
  
 </div>
  
