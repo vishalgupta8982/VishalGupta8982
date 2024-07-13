@@ -34,3 +34,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalgupta8982&show_icons=true&locale=en" alt="vishalgupta8982" />
 </p>
 
+![snake gif](https://github.com/vishalgupta8982/VishalGupta8982/blob/output/github-contribution-grid-snake.gif)
+
+
+
+
+
+
+
+
+
