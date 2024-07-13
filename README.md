@@ -19,8 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vishal-gupta-b027b422a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-gupta-b027b422a" height="30" width="40" /></a>
-  <a href="mailto:vishalgupta0403@gmail.com" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/799/918/png-transparent-mail-google-gmail-google-s-logo-icon-thumbnail.png" alt="vishal-gupta-b027b422a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vishal-gupta-b027b422a" target="blank"> <img src="https://skillicons.dev/icons?i=linkedin"  /></a>
+  <a href="mailto:vishalgupta0403@gmail.com" target="blank"> <img src="https://skillicons.dev/icons?i=gmail"  />
+ </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
