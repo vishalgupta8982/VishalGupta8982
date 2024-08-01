@@ -7,10 +7,12 @@
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalgupta8982&label=Profile%20views&color=0e75b6&style=flat" alt="vishalgupta8982" /> </p>
+
 ## About me
 
+- 🏫 I am Final-year B.Tech Computer Science student passionate about technology.
 
-- 🌱 Ask me about  **React Native, Nodejs, ReactJs, Express etc.**
+- 🌱 Ask me about  **React Native, NodeJs, ReactJs, ExpressJs, NextJs etc.**
 
 - 📫 How to reach me **vishalgupta0403@gmail.com**
 
@@ -22,6 +24,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/vishal-gupta-b027b422a" target="blank"> <img src="https://skillicons.dev/icons?i=linkedin"  /></a>
   <a href="mailto:vishalgupta0403@gmail.com" target="blank"> <img src="https://skillicons.dev/icons?i=gmail"  />
+    <a href="https://x.com/vishalgupta0403" target="blank"> <img src="https://skillicons.dev/icons?i=twitter"  /></a>
  </a>
 </p>
 
