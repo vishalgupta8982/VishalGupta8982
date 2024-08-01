@@ -1,6 +1,7 @@
 <h1 align="center">Hi There!  I am Vishal Gupta 👋</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&pause=1000&center=true&width=600&height=100&lines=Software+Developer;Backend+Enthusiast" alt="Typing SVG" /></a>
-
+<p align="center">
+<a  href="https://git.io/typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&pause=1000&center=true&width=600&height=100&lines=Software+Developer;Backend+Enthusiast" alt="Typing SVG" /></a>
+</p>
 <div align="center">
   <img height="150" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png"  />
 </div>
