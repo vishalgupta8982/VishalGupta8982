@@ -23,7 +23,7 @@
 ## <h2 align=left> Connect with me </h2>
 
  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="mailto:vishalgupta0403@gmail.comm">
+  <a href="mailto:vishalgupta0403@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/vishalgupta8982">
