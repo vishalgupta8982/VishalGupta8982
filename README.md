@@ -20,15 +20,22 @@
 
 - ❄️ Portfolio **🎯 https://vishalgupta8982.github.io/portfolio/**
 
-## Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/vishal-gupta-b027b422a" target="blank"> <img src="https://skillicons.dev/icons?i=linkedin"  /></a>
-  <a href="mailto:vishalgupta0403@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail"  />
-    <a href="https://x.com/vishalgupta0403" target="blank"><img src="https://skillicons.dev/icons?i=twitter"  /></a>
- </a>
-</p>
+## <h2 align=left> Connect with me </h2>
 
-## My Skills
+ <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <a href="mailto:vishalgupta0403@gmail.comm">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/vishalgupta8982">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/vishal-gupta-b027b422a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+
+ ## My Skills
 
  ### - Programming languages
 
