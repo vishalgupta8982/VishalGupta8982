@@ -12,8 +12,6 @@
 
 - 🏫 I am Final-year B.Tech Computer Science student passionate about technology.
 
-- 🌱 Ask me about  **React Native, NodeJs, ReactJs, ExpressJs, NextJs etc.**
-
 - 📫 How to reach me **vishalgupta0403@gmail.com**
 
 - ⚡ Fun fact **🎉 My birthday is on April 1st!**
