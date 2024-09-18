@@ -69,7 +69,7 @@
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
    <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Express.js"/>
-   <img src="https://img.shields.io/badge/ExpressJs-000?style=for-the-badge&logo=express" alt="Node.js"/>
+   <img src="https://img.shields.io/badge/ExpressJs-000?style=for-the-badge&logo=express&logoColor=white" alt="Node.js"/>
    <img src="https://img.shields.io/badge/SOCKET.IO-%2325C2A0?style=for-the-badge&logo=socketdotio&logoColor=%23fff" alt="Socket.io"/>
 </div>
 <br/>
