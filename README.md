@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **vishalgupta0403@gmail.com**
 
-- ⚡ Fun fact **🎉 My birthday is on April 1st!**
+
 
 - ❄️ Portfolio **🎯 https://vishalgupta8982.github.io/portfolio/**
 
