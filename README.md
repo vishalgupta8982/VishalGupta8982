@@ -10,7 +10,7 @@
 
 ## About me
 
-- 🏫 I am Final-year B.Tech Computer Science student passionate about technology.
+- 🎓 I am a 2025 B.Tech Computer Science graduate passionate about technology.
 
 - 📫 How to reach me **vishalgupta0403@gmail.com**
 
