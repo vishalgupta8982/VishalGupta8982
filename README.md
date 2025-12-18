@@ -9,6 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalgupta8982&label=Profile%20views&color=0e75b6&style=flat" alt="vishalgupta8982" /> </p>
 
 ## About me
+-  💼 Currently working at **Plugin Energy(Chargepe Technology)** as an **App & Web Engineer**, developing scalable mobile and web applications.
 
 - 🎓 I am a 2025 B.Tech Computer Science graduated passionate about technology.
 
